@@ -13,6 +13,7 @@ namespace SeleniumConcepts
     {
         static void Mai1n(string[] args)
         {
+//fb login
             IWebDriver driver = new EdgeDriver();
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
