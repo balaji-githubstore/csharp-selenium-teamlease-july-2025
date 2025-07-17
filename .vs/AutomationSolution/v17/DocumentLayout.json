@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3C0EB8-5D50-4338-B64C-56D25478BC3C}|EmployeeManagement\\EmployeeManagement.csproj|d:\\balaji\\company\\teaml july 2025\\automationsolution\\employeemanagement\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B3C0EB8-5D50-4338-B64C-56D25478BC3C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211FF8B3-15EC-4F70-B993-9F86E680876C}|SeleniumConcepts\\SeleniumConcepts.csproj|d:\\balaji\\company\\teaml july 2025\\automationsolution\\seleniumconcepts\\demo10fluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211FF8B3-15EC-4F70-B993-9F86E680876C}|SeleniumConcepts\\SeleniumConcepts.csproj|solutionrelative:seleniumconcepts\\demo10fluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211FF8B3-15EC-4F70-B993-9F86E680876C}|SeleniumConcepts\\SeleniumConcepts.csproj|d:\\balaji\\company\\teaml july 2025\\automationsolution\\seleniumconcepts\\demo11table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211FF8B3-15EC-4F70-B993-9F86E680876C}|SeleniumConcepts\\SeleniumConcepts.csproj|solutionrelative:seleniumconcepts\\demo11table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3C0EB8-5D50-4338-B64C-56D25478BC3C}|EmployeeManagement\\EmployeeManagement.csproj|d:\\balaji\\company\\teaml july 2025\\automationsolution\\employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B3C0EB8-5D50-4338-B64C-56D25478BC3C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211FF8B3-15EC-4F70-B993-9F86E680876C}|SeleniumConcepts\\SeleniumConcepts.csproj|d:\\balaji\\company\\teaml july 2025\\automationsolution\\seleniumconcepts\\demo9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211FF8B3-15EC-4F70-B993-9F86E680876C}|SeleniumConcepts\\SeleniumConcepts.csproj|solutionrelative:seleniumconcepts\\demo9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211FF8B3-15EC-4F70-B993-9F86E680876C}|SeleniumConcepts\\SeleniumConcepts.csproj|d:\\balaji\\company\\teaml july 2025\\automationsolution\\seleniumconcepts\\demo8js.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211FF8B3-15EC-4F70-B993-9F86E680876C}|SeleniumConcepts\\SeleniumConcepts.csproj|solutionrelative:seleniumconcepts\\demo8js.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManagement.csproj",
+              "DocumentMoniker": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ToolTip": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T11:42:04.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRunner.cs",
+              "DocumentMoniker": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\EmployeeManagement\\EmployeeRunner.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeRunner.cs",
+              "ToolTip": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\EmployeeManagement\\EmployeeRunner.cs",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeRunner.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:39:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo9.cs",
+              "DocumentMoniker": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\SeleniumConcepts\\Demo9.cs",
+              "RelativeDocumentMoniker": "SeleniumConcepts\\Demo9.cs",
+              "ToolTip": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\SeleniumConcepts\\Demo9.cs",
+              "RelativeToolTip": "SeleniumConcepts\\Demo9.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:36:22.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo8JS.cs",
+              "DocumentMoniker": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\SeleniumConcepts\\Demo8JS.cs",
+              "RelativeDocumentMoniker": "SeleniumConcepts\\Demo8JS.cs",
+              "ToolTip": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\SeleniumConcepts\\Demo8JS.cs",
+              "RelativeToolTip": "SeleniumConcepts\\Demo8JS.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:36:18.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo10Fluent.cs",
+              "DocumentMoniker": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\SeleniumConcepts\\Demo10Fluent.cs",
+              "RelativeDocumentMoniker": "SeleniumConcepts\\Demo10Fluent.cs",
+              "ToolTip": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\SeleniumConcepts\\Demo10Fluent.cs",
+              "RelativeToolTip": "SeleniumConcepts\\Demo10Fluent.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:36:16.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo11Table.cs",
+              "DocumentMoniker": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\SeleniumConcepts\\Demo11Table.cs",
+              "RelativeDocumentMoniker": "SeleniumConcepts\\Demo11Table.cs",
+              "ToolTip": "D:\\Balaji\\Company\\TeamL July 2025\\AutomationSolution\\SeleniumConcepts\\Demo11Table.cs",
+              "RelativeToolTip": "SeleniumConcepts\\Demo11Table.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:23:36.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
