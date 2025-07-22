@@ -19,3 +19,4 @@ D:\Balaji\Company\TeamL July 2025\AutomationSolution\SeleniumConcepts\obj\Debug\
 D:\Balaji\Company\TeamL July 2025\AutomationSolution\SeleniumConcepts\obj\Debug\net8.0\SeleniumConcepts.pdb
 D:\Balaji\Company\TeamL July 2025\AutomationSolution\SeleniumConcepts\obj\Debug\net8.0\SeleniumConcepts.genruntimeconfig.cache
 D:\Balaji\Company\TeamL July 2025\AutomationSolution\SeleniumConcepts\obj\Debug\net8.0\ref\SeleniumConcepts.dll
+D:\Balaji\Company\TeamL July 2025\AutomationSolution\SeleniumConcepts\obj\Debug\net8.0\SeleniumConcepts.sourcelink.json

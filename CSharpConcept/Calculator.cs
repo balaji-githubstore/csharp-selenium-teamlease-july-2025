@@ -25,6 +25,11 @@ namespace CSharpConcept
         {
             Console.WriteLine(a + b);
         }
+
+        public static implicit operator Calculator(Employee v)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 

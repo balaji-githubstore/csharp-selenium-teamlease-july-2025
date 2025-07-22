@@ -12,3 +12,4 @@ D:\Balaji\Company\TeamL July 2025\AutomationSolution\EmployeeManagement\obj\Debu
 D:\Balaji\Company\TeamL July 2025\AutomationSolution\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
 D:\Balaji\Company\TeamL July 2025\AutomationSolution\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
 D:\Balaji\Company\TeamL July 2025\AutomationSolution\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+D:\Balaji\Company\TeamL July 2025\AutomationSolution\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.sourcelink.json

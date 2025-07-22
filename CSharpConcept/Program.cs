@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CSharpConcept;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,49 +9,63 @@ namespace TeamL.CSharpConcept
 {
     public class Program
     {
-        static void Main(string[] args)
+        static void Mai3n(string[] args)
         {
-            Console.WriteLine("Balaji Dinakarantt");
 
-            byte a = 100;  //8 bits 
-            sbyte b = 100; //8 bits 
+            object a = 10; //boxing
+            object v = 102.3;
+            object c = new Calculator();
 
-            short c = 100; //16 bits
-            int d = 100; //32 bits 
 
-            long e = 100L;
+            int z = (int)a; //unboxing 
 
-            float f = 10.2f; //32 bits 
+            int x = (int)v;
 
-            double g = 10.2; //64 bits 
+            Calculator f = (Calculator)c; 
 
-            decimal h = 10.2m;
+            f.Add(2, 2);
 
-            bool i = true;
+            //Console.WriteLine("Balaji Dinakarantt");
 
-            char letter= '#';  //16 bits
+            //byte a = 100;  //8 bits 
+            //sbyte b = 100; //8 bits 
 
-            string myName = "bala";  //4*16 bits of memory 
+            //short c = 100; //16 bits
+            //int d = 100; //32 bits 
 
-            Console.WriteLine(myName);
+            //long e = 100L;
 
-            Console.WriteLine(myName.ToUpper());
-            Console.WriteLine(myName[2]);
+            //float f = 10.2f; //32 bits 
 
-            int[] numbers = new int[5];  //5*32 bits of memory 
+            //double g = 10.2; //64 bits 
 
-            numbers[0] = 10;
-            Console.WriteLine(numbers.GetHashCode());
-            numbers = new int[6];
-            Console.WriteLine(numbers.GetHashCode());
-            Console.WriteLine(numbers[0]);
-            Console.WriteLine(numbers[1]);
+            //decimal h = 10.2m;
 
-            string[] colors=new string[6];
-            string[] colors1 = { "red", "green", "yellow" };
-            Console.WriteLine(colors[0]);
+            //bool i = true;
 
-            Console.WriteLine((double)25/2);
+            //char letter= '#';  //16 bits
+
+            //string myName = "bala";  //4*16 bits of memory 
+
+            //Console.WriteLine(myName);
+
+            //Console.WriteLine(myName.ToUpper());
+            //Console.WriteLine(myName[2]);
+
+            //int[] numbers = new int[5];  //5*32 bits of memory 
+
+            //numbers[0] = 10;
+            //Console.WriteLine(numbers.GetHashCode());
+            //numbers = new int[6];
+            //Console.WriteLine(numbers.GetHashCode());
+            //Console.WriteLine(numbers[0]);
+            //Console.WriteLine(numbers[1]);
+
+            //string[] colors=new string[6];
+            //string[] colors1 = { "red", "green", "yellow" };
+            //Console.WriteLine(colors[0]);
+
+            //Console.WriteLine((double)25/2);
         }
     }
 }

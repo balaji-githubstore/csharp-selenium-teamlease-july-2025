@@ -12,8 +12,18 @@ namespace EmployeeManagement
 
         static void Main(string[] args)
         {
+            //int a = 10;
 
+            //double b = 10.3;
+
+            //string name2 = "king";
+
+            //Employee e = new Employee(20);
            
+
+
+
+
 
             string name= Employee.GetAuthorName();
             Console.WriteLine(name);
