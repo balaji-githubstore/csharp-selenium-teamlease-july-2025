@@ -22,6 +22,7 @@ namespace SeleniumConcepts
 
             IWebDriver driver = new ChromeDriver(options);
 
+           
             //driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
 
@@ -37,6 +38,8 @@ namespace SeleniumConcepts
 
             //approach 2 - automating calendar 
 
+            //IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
+            //js.ExecuteScript("");
             //approach 3 - Js 
             driver.ExecuteJavaScript("document.querySelector(\"div[id='book-flight'] input[name='dateDeparture']\").value='22 Aug 2025'");
 

@@ -12,7 +12,7 @@ namespace CSharpConcept
         public int id;
         public string name;
 
-        public virtual void DisplayEmployeeRecords()
+        public void DisplayEmployeeRecords()
         {
             Console.WriteLine("parent class");
             Console.WriteLine(id);
@@ -27,16 +27,16 @@ namespace CSharpConcept
         public int permanentEmpCode;
         public override void CalculateSalary()
         {
-            Console.WriteLine(30*1000);
+            Console.WriteLine(30 * 1000);
         }
 
-        public new void DisplayEmployeeRecords()
-        {
-            Console.WriteLine("child class");
-            Console.WriteLine(id);
-            Console.WriteLine(name);
-            Console.WriteLine(permanentEmpCode);
-        }
+        //public override void DisplayEmployeeRecords()
+        //{
+        //    Console.WriteLine("child class");
+        //    Console.WriteLine(id);
+        //    Console.WriteLine(name);
+        //    Console.WriteLine(permanentEmpCode);
+        //}
 
         public void PermanentClassOnly()
         {
@@ -49,7 +49,7 @@ namespace CSharpConcept
 
         public override void CalculateSalary()
         {
-            Console.WriteLine(8*100);
+            Console.WriteLine(8 * 100);
         }
 
         public void ContractEmployeeClassOnly()
@@ -58,24 +58,26 @@ namespace CSharpConcept
         }
     }
 
-    public class Demo5
+    public class Demo5Abstract
     {
-        static void Main(string[] args)
+        static void Main44(string[] args)
         {
 
             Employee e=new PermanentEmployee();
-
-
+            e.CalculateSalary();
             e.DisplayEmployeeRecords();
 
+            e=new ContractEmployee();
             e.CalculateSalary();
 
-            PermanentEmployee p1 = (PermanentEmployee)e;
-            p1.PermanentClassOnly();
+          //  e.CalculateSalary();
 
-            PermanentEmployee p = new PermanentEmployee();
-            p.DisplayEmployeeRecords();
-            p.PermanentClassOnly();
+            //PermanentEmployee p1 = (PermanentEmployee)e;
+            //p1.PermanentClassOnly();
+
+            //PermanentEmployee p = new PermanentEmployee();
+            //p.DisplayEmployeeRecords();
+            //p.PermanentClassOnly();
            
         }
     }

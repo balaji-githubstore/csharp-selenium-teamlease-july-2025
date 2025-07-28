@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement", "Emplo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConcepts", "SeleniumConcepts\SeleniumConcepts.csproj", "{211FF8B3-15EC-4F70-B993-9F86E680876C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIAutomationConcepts", "TestProject1\APIAutomationConcepts.csproj", "{DDBD4733-C1C7-4E01-BF71-ED7620DE0098}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{211FF8B3-15EC-4F70-B993-9F86E680876C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{211FF8B3-15EC-4F70-B993-9F86E680876C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{211FF8B3-15EC-4F70-B993-9F86E680876C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBD4733-C1C7-4E01-BF71-ED7620DE0098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBD4733-C1C7-4E01-BF71-ED7620DE0098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBD4733-C1C7-4E01-BF71-ED7620DE0098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBD4733-C1C7-4E01-BF71-ED7620DE0098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
